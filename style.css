@@ -1,8 +1,14 @@
 div{
 	color:red;
+	padding-top: 34px;
 	
 }
 p {
+      font-family: 'Inter', sans-serif;
+      text-align: center;
+} 
+
+p1 {
       font-family: 'Inter', sans-serif;
       text-align: center;
 } 
